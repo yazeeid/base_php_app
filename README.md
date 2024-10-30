@@ -13,6 +13,7 @@ Clone the repository
 Switch to the repo folder
 
     cd base_php_app
+    cd strideProject
 
 Install all the dependencies using composer
 
